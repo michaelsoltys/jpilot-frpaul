@@ -1,6 +1,9 @@
 # Created Aug 28, 2020
 # Michael Soltys
 
+# Following instructions of Judd here:
+http://lists.jpilot.org/pipermail/jpilot_lists.jpilot.org/2020-April/030157.html
+
 # Curls
 curl https://raw.githubusercontent.com/juddmon/www.jpilot/master/ubuntu-20.20/libpisock9_0.12.5-dfsg-2build2_amd64.deb -o libpisock9_0.12.5-dfsg-2build2_amd64.deb
 
