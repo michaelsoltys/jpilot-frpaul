@@ -2,7 +2,10 @@
 # Michael Soltys
 
 # Following instructions of Judd here:
-http://lists.jpilot.org/pipermail/jpilot_lists.jpilot.org/2020-April/030157.html
+# http://lists.jpilot.org/pipermail/jpilot_lists.jpilot.org/2020-April/030157.html
+
+# Installs
+sudo apt install curl git
 
 # Curls
 curl https://raw.githubusercontent.com/juddmon/www.jpilot/master/ubuntu-20.20/libpisock9_0.12.5-dfsg-2build2_amd64.deb -o libpisock9_0.12.5-dfsg-2build2_amd64.deb
